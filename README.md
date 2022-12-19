@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-  <img height="160em" width="40%" src="https://github-readme-stats.vercel.app/api?username=Sight-wcg&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000&title_color=58a6fe&text_color=878787&icon_color=58a6fe&cache_seconds=1800"/>
+  <img height="170em" width="40%" src="https://github-readme-stats.vercel.app/api?username=Sight-wcg&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000&title_color=58a6fe&text_color=878787&icon_color=58a6fe&cache_seconds=1800"/>
   <img height="160em" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sight-wcg&layout=compact&langs_count=8&background=00000000&hide_border=true"/>
 </div>
 
